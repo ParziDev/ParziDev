@@ -1,5 +1,5 @@
 # 👋🏻 Hi, I'am Parzi!
-Discord bot developer , turkish student and youtuber. <a href="https://discord.gg/aoijs" rel="nofollow">TheMechanic's</a> & <a href="https://discord.gg/FSFxzCXRFs" rel="nofollow">Tokyo Code</a> owner. <a href="https://discord.gg/wuCZ92GbQ5" rel="nofollow">Click</a> for my discord server.
+Discord bot developer , turkish student and youtuber. <a href="https://www.tokyocode.xyz/" rel="nofollow">Tokyo Code</a> owner. <a href="https://discord.gg/wuCZ92GbQ5" rel="nofollow">Click</a> for my discord server.
 [![Discord Presence](https://lanyard.cnrad.dev/api/771311848993587210)](https://discord.com/users/771311848993587210)
 
 # 🌐 Social Media
